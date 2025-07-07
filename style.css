@@ -1,0 +1,79 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f4f4f4;
+  color: #333;
+}
+
+header {
+  text-align: center;
+  background: #222;
+  color: #fff;
+  padding: 20px;
+}
+
+.ad-banner {
+  text-align: center;
+  padding: 10px;
+  background: #e2e2e2;
+  margin: 10px;
+  border: 1px dashed #999;
+}
+
+main {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 0 20px;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.1);
+}
+
+.tool-info {
+  text-align: center;
+  padding: 20px;
+}
+
+.timer-box {
+  margin: 20px 0;
+  font-size: 20px;
+}
+
+#countdown {
+  font-size: 36px;
+  color: #d35400;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background: #27ae60;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  margin: 10px 0;
+}
+
+.btn.buy {
+  background: #2980b9;
+}
+
+.affiliate {
+  text-align: center;
+  padding: 20px;
+  border-top: 1px solid #ccc;
+}
+
+footer {
+  text-align: center;
+  padding: 15px;
+  background: #222;
+  color: #ccc;
+  margin-top: 20px;
+}
+
+@media screen and (max-width: 600px) {
+  .btn {
+    width: 90%;
+  }
+}
