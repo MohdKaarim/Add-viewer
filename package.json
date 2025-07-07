@@ -2,7 +2,7 @@ npm install package-name
 npm install firebase-admin
 npm install bootstrap
 npm install node-sass
-
+npm install <missing-package> --save
 
 
 "engines": {
