@@ -1,2 +1,5 @@
 npm install package-name
 npm install firebase-admin
+"engines": {
+  "node": "18.x"
+}
