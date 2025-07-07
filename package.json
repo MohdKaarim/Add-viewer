@@ -1,27 +1,25 @@
 {
-  "name": "your-app-name",
-  "version": "1.0.0",
-  "description": "Your app description here",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js",
-    "build": "npm run build"
-  },
-  "engines": {
-    "node": "18.x"
-  },
-  "dependencies": {
-    "firebase-admin": "^11.10.1",
-    "package-name": "^1.0.0" // replace with actual needed packages
-  },
-  "devDependencies": {
-    // optional: add things like eslint, nodemon, etc.
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/your-username/your-repo.git"
-  },
-  "keywords": [],
-  "author": "Your Name",
-  "license": "MIT"
+    "name": "your-app-name",
+    "version": "1.0.0",
+    "description": "Your app description here",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "build": "npm run build"
+    },
+    "engines": {
+        "node": "18.x"
+    },
+    "dependencies": {
+        "firebase-admin": "^11.10.1",
+        "package-name": "^1.0.0"
+    },
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/your-username/your-repo.git"
+    },
+    "keywords": [],
+    "author": "Your Name",
+    "license": "MIT"
 }
