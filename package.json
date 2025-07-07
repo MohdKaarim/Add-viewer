@@ -3,7 +3,7 @@ npm install firebase-admin
 npm install bootstrap
 npm install node-sass
 npm install <missing-package> --save
-
+npm install react-icons
 
 "engines": {
   "node": "18.x"
